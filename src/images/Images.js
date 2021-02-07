@@ -1,7 +1,7 @@
-import icon from './';
+import visual from './visual.jpg';
 
 const Images = {
-    icon,
+    visual,
 }
 
 export default Images;
